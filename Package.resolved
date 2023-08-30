@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpm_daughter",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:mamouneyya/SwiftPM_DAUGHTER.git",
+      "state" : {
+        "revision" : "5a11fbcaf5d448bbfcb0fc2558b5dc495a3e107c",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
